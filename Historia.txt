@@ -6,3 +6,5 @@ si
 cerramos 
 este topico el dia de hoy
 abril 27
+
+Cambio por checkout q funciona
